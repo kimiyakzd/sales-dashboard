@@ -4,3 +4,5 @@ openpyx1
 numpy
 matplotlib
 plotly
+time
+plotly.express
